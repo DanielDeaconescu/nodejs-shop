@@ -1,0 +1,23 @@
+[
+  {
+    "id": "0.2672629928191632",
+    "title": "test2 ",
+    "imageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": "35",
+    "description": "this is a cool book"
+  },
+  {
+    "id": "0.9077444711335108",
+    "title": "Moby Dick",
+    "imageUrl": "https://images.penguinrandomhouse.com/cover/9780143105954",
+    "price": "25",
+    "description": "This is a book by Herman Melville!"
+  },
+  {
+    "id": "0.7556658263392986",
+    "title": "Test Book ! (edited)",
+    "imageUrl": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "price": "25",
+    "description": "This is a test book! (this was edited)"
+  }
+]
